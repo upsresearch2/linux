@@ -16,3 +16,7 @@ chmod u+x shell.sh # Only you can run the script
 
 Happy Scripting!
 
+# Troubleshooting
+"Syntax error near unexpected token 'newline' '<!DOCTYPE html>'
+The script file is recognized as HTML. Need to download raw file. or use wget with the raw file url (https://raw.git......).
+
